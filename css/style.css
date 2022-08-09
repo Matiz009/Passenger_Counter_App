@@ -28,11 +28,11 @@ h1 {
 
 h3 {
     font-size: 1.5em;
-    font-weight: 300;
+    font-weight: 500;
     line-height: 1.5;
     margin: 0;
     padding: 0;
-    color: rgb(226, 121, 121);
+    color: rgb(20, 20, 20);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     margin-left: auto;
 }
@@ -43,7 +43,16 @@ h4 {
     line-height: 1.5;
     margin: 0;
     padding: 0;
-    color: rgb(226, 121, 121);
+    color: rgb(18, 18, 18);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: auto;
+}
+
+#add,
+#subtract,
+#reset {
+    font-size: 1.5em;
+    font-weight: 300;
+    line-height: 1.5;
     margin-left: auto;
 }
