@@ -1,0 +1,49 @@
+body {
+    background-size: cover;
+    background-image: url(/css/track.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-color: #000;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    image-resolution: from-image;
+}
+
+h1 {
+    font-size: 2em;
+    font-weight: 300;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    color: rgb(10, 127, 151);
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: auto;
+}
+
+h3 {
+    font-size: 1.5em;
+    font-weight: 300;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    color: rgb(226, 121, 121);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: auto;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: 300;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    color: rgb(226, 121, 121);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: auto;
+}
